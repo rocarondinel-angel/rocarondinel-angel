@@ -10,7 +10,7 @@ Me gusta el aprendizaje continuo, así que estoy dispuesto a aprender nuevas tec
 Data Engineer | Data Analyst | Data Scientist | Python | SQL | Big Data | Business Intelligence | Power BI | Databrics | Spark | Machine Learning | Mechanical Engineer
 
 
--
+
 ## My Skills
 
 - 💻 Programming languages:
